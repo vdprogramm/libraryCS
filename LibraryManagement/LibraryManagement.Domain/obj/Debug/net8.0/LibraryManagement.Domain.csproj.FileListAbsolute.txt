@@ -1,0 +1,11 @@
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.deps.json
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.dll
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.pdb
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.AssemblyInfoInputs.cache
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.AssemblyInfo.cs
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.csproj.CoreCompileInputs.cache
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.dll
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Domain\obj\Debug\net8.0\refint\LibraryManagement.Domain.dll
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.pdb
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Domain\obj\Debug\net8.0\ref\LibraryManagement.Domain.dll

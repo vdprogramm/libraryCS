@@ -1,0 +1,104 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  min-width: 320px;
+  /* Beautiful soft dynamic gradient */
+  background: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%, #fbc2eb 200%);
+  background-size: 300% 300%;
+  animation: gradientBG 15s ease infinite;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  color: #1e293b;
+  min-height: 100vh;
+}
+
+@keyframes gradientBG {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.6) !important;
+  backdrop-filter: blur(24px) !important;
+  -webkit-backdrop-filter: blur(24px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.7) !important;
+  box-shadow: 0 10px 40px -10px rgba(31, 38, 135, 0.15) !important;
+}
+
+/* Global utility overrides for instant WOW factor on untouched pages */
+.bg-slate-100 {
+  background-color: transparent !important;
+}
+
+.bg-white {
+  background: rgba(255, 255, 255, 0.65) !important;
+  backdrop-filter: blur(24px) !important;
+  -webkit-backdrop-filter: blur(24px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.7) !important;
+  box-shadow: 0 10px 40px -10px rgba(31, 38, 135, 0.15) !important;
+}
+
+.bg-slate-50 {
+  background: rgba(255, 255, 255, 0.4) !important;
+}
+
+/* Enhancing existing buttons globally */
+button.bg-blue-600, a.bg-blue-600 {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+  border: none !important;
+  box-shadow: 0 4px 15px rgba(118, 75, 162, 0.4);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+button.bg-blue-600:hover:not(:disabled), a.bg-blue-600:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(118, 75, 162, 0.5);
+}
+
+button.bg-slate-900, a.bg-slate-800 {
+  background: linear-gradient(135deg, #434343 0%, #000000 100%) !important;
+  border: none !important;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+button.bg-slate-900:hover:not(:disabled), a.bg-slate-800:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+}
+
+
+/* Animations */
+.animate-slide-up {
+  animation: slideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.6s ease-out forwards;
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Improve table visuals in untouched pages */
+table {
+  background: transparent !important;
+}
+thead tr {
+  border-bottom: 2px solid rgba(255,255,255,0.8);
+}
+tbody tr {
+  transition: background-color 0.2s ease;
+  border-bottom: 1px solid rgba(255,255,255,0.4) !important;
+}
+tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.6) !important;
+}

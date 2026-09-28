@@ -1,0 +1,15 @@
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Application\bin\Debug\net8.0\LibraryManagement.Application.deps.json
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Application\bin\Debug\net8.0\LibraryManagement.Application.dll
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Application\bin\Debug\net8.0\LibraryManagement.Application.pdb
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Application\bin\Debug\net8.0\LibraryManagement.Domain.dll
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Application\bin\Debug\net8.0\LibraryManagement.Domain.pdb
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Application\obj\Debug\net8.0\LibraryManagement.Application.csproj.AssemblyReference.cache
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Application\obj\Debug\net8.0\LibraryManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Application\obj\Debug\net8.0\LibraryManagement.Application.AssemblyInfoInputs.cache
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Application\obj\Debug\net8.0\LibraryManagement.Application.AssemblyInfo.cs
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Application\obj\Debug\net8.0\LibraryManagement.Application.csproj.CoreCompileInputs.cache
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Application\obj\Debug\net8.0\LibraryM.C4F4E017.Up2Date
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Application\obj\Debug\net8.0\LibraryManagement.Application.dll
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Application\obj\Debug\net8.0\refint\LibraryManagement.Application.dll
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Application\obj\Debug\net8.0\LibraryManagement.Application.pdb
+D:\project C#\QkyTguVien\LibraryManagement_completed\LibraryManagement\LibraryManagement.Application\obj\Debug\net8.0\ref\LibraryManagement.Application.dll
